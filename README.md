@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saipradeeps
 - 👀 I’m interested in data science and web development
-- 🌱 I’m currently learning undergrad freshman
+- 🌱 I’m currently learning front end developing
 - 💞️ I’m looking to collaborate on development programs
 - 📫 How to reach me via instagram 
 
